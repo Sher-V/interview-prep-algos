@@ -9,3 +9,7 @@ My solutions to coding interview problems.
 1. Shortest path in a maze(BFS).
 2. Closest element in BST.
 3. Max depth in BT(DFS).
+
+# Day 2
+1. Three largest numbers in array.
+2. River sizes(DFS).
