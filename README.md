@@ -8,3 +8,4 @@ My solutions to coding interview problems.
 # Day 1 
 1. Shortest path in a maze(BFS).
 2. Closest element in BST
+3. Max depth in BT(DFS).
