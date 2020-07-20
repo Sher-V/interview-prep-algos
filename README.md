@@ -13,3 +13,6 @@ My solutions to coding interview problems.
 # Day 2
 1. Three largest numbers in array.
 2. River sizes(DFS).
+
+# Day 3
+1. Max path sum in a binary tree(DFS).
